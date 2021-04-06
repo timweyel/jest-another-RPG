@@ -1,7 +1,6 @@
 {
   "name": "rpg",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest"
@@ -12,5 +11,18 @@
   "dependencies": {
     "inquirer": "^7.0.3",
     "jest": "^24.9.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timweyel/jest-another-RPG.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timweyel/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/timweyel/jest-another-RPG#readme",
+  "description": ""
 }
